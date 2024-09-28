@@ -443,6 +443,8 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
+        "blur": 0.2,
+        "alpha": 0.3,
         "url": "https://media.discordapp.net/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg?ex=66f84ad3&is=66f6f953&hm=7eac7e1c36d82b1201853739aa761d59eb18c66ae2b052ff5975ff04c1670a8f&="
     },
     "plus": {
